@@ -1,0 +1,8 @@
+﻿  SimulatedAnnealing.c
+c:\users\amxpc\documents\visual studio 2015\projects\sa_simple\sa_simple\tour.h(63): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+c:\users\amxpc\documents\visual studio 2015\projects\sa_simple\sa_simple\simulatedannealing.c(21): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\amxpc\documents\visual studio 2015\projects\sa_simple\sa_simple\simulatedannealing.c(119): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+c:\users\amxpc\documents\visual studio 2015\projects\sa_simple\sa_simple\tour.h(67): warning C4716: “SetDistance”: 必须返回一个值
+  SA_Simple.vcxproj -> C:\Users\AMXPC\Documents\Visual Studio 2015\Projects\SA_Simple\Debug\SA_Simple.exe
+  SA_Simple.vcxproj -> C:\Users\AMXPC\Documents\Visual Studio 2015\Projects\SA_Simple\Debug\SA_Simple.pdb (Full PDB)
